@@ -8,11 +8,11 @@ Analyse Syntaxique : Assure la cohérence syntaxique du code en vérifiant les s
 ## Description des Fichiers du Projet
 Le projet de compilateur en langage C utilise plusieurs fichiers pour ses différentes étapes de traitement : analyse lexicale, analyse syntaxique et génération de logs. Voici une brève description des fichiers impliqués :
 
-programmes.txt
+* programmes.txt
 Ce fichier contient le code source à compiler. Il utilise une syntaxe spécifique définie par le compilateur pour déclarer des variables, lire des entrées, exécuter des conditions et afficher des sorties.
 
-lexique.txt
+* lexique.txt
 Ce fichier sert de dictionnaire pour l'analyse lexicale. Il contient les mots-clés, les opérateurs et les caractères spéciaux valides dans le langage de programmation spécifique du compilateur.
 
-log.txt
+* log.txt
 Ce fichier est généré par le compilateur pour consigner les erreurs et les avertissements détectés lors de l'analyse lexicale et syntaxique du fichier source.
