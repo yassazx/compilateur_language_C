@@ -1,0 +1,12 @@
+Erreur Lexicale en ligne 2 : 'var' n'existe pas dans le dictionnaire de la langue.
+---------------------------------------------------------------------------------
+Erreur Lexicale en ligne 4 : 'Lir' n'existe pas dans le dictionnaire de la langue.
+---------------------------------------------------------------------------------
+Erreur Lexicale en ligne 2 : 'var' n'existe pas dans le dictionnaire de la langue.
+---------------------------------------------------------------------------------
+Erreur Lexicale en ligne 4 : 'Lir' n'existe pas dans le dictionnaire de la langue.
+---------------------------------------------------------------------------------
+Erreur Lexicale en ligne 2 : 'var' n'existe pas dans le dictionnaire de la langue.
+---------------------------------------------------------------------------------
+Erreur Lexicale en ligne 4 : 'Lir' n'existe pas dans le dictionnaire de la langue.
+---------------------------------------------------------------------------------
