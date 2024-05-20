@@ -16,3 +16,13 @@ Ce fichier sert de dictionnaire pour l'analyse lexicale. Il contient les mots-cl
 
 * log.txt
 Ce fichier est généré par le compilateur pour consigner les erreurs et les avertissements détectés lors de l'analyse lexicale et syntaxique du fichier source.
+
+**Description des éléments du fichier :**
+
+* **Analyse Lexicale :**
+    * Signale les mots du fichier source qui ne sont pas trouvés dans le dictionnaire (`lexique.txt`).
+    * Exemple : `'var'` et `'Lir'` sont signalés comme erreurs lexicales car ils ne sont pas dans le dictionnaire.
+* **Analyse Syntaxique :**
+    * Signale les erreurs de syntaxe dans le code source.
+    * Exemple : Une erreur syntaxique est signalée à la ligne 5 parce qu'un opérateur est manquant dans la condition `Si`.
+
